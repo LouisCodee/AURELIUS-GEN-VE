@@ -1,0 +1,8 @@
+{
+  "name": "LuxeView 3D",
+  "description": "An immersive, high-end 3D web platform featuring interactive luxury watch models and seamless, sophisticated scrolling experiences for premium brands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
